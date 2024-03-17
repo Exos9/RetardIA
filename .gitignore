@@ -20,7 +20,6 @@
 /models/config-user.yaml
 /notification.mp3
 /settings*.json
-/settings*.yaml
 
 .chroma
 .DS_Store
